@@ -1,0 +1,16 @@
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.982),rgba(48, 7, 53, 0.689),rgba(109, 55, 118, 0.7)), url('../../assets/HeroI.jpg');
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-text{
+    text-align: center;
+    max-width: 800px;
+}
